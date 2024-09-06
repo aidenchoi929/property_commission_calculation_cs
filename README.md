@@ -2,6 +2,7 @@
 A property commission calculator by python through object-oriented-programming(OOP)
   - A program calculates property sale commission based on the position(Agent or Director)
   - Run "main.py" for overview commission slip
+  - Unit & Integration testing for code usability
 
 Commission breakdown for agenct and director
 1. Property: 1% of the property valuation(sold price) will be arranged as commission and shared into two shares(Agent and agency).
